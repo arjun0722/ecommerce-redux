@@ -1,0 +1,65 @@
+.table_con {
+  overflow-x: scroll;
+  height: 96vh;
+  margin: auto;
+  width: 90%;
+}
+
+.main_div {
+  display: flex;
+}
+.quantity {
+  border: 1px solid #c4c4c4;
+  border-radius: 25px;
+}
+
+.subtotal {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+.total {
+  display: flex;
+  text-align: center;
+  justify-content: space-between;
+}
+.proceed {
+  width: 300px;
+  height: 2.5rem;
+  border: none;
+  background-color: #1158c7d1;
+  border-radius: 30px;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin: auto;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  width: 12rem;
+}
+.card {
+  width: 70%;
+  margin-left: 100px;
+}
+.card li {
+  border: none;
+}
+.main_div {
+  margin: 10px;
+}
+.items_img {
+  height: 90px;
+}
+.margin {
+  background: white;
+  outline: none;
+  border: none;
+  height: 1.5rem;
+}
+.delete {
+  background-color: white;
+  border: none;
+  color: black;
+  font-size: 1.2rem;
+}
